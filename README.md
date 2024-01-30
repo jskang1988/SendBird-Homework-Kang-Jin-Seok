@@ -2,7 +2,7 @@
 구현 내용
 
 - 사용된 3rd party
-    1) Alamofire
+    1) Alamofire
 
 - 과제 완성도
     1) SBUserManager, SBNetworkClient, SBUserStorage, Request를 구현 하였으며, 제시된 Protocol을 모두 준수 하였습니다.
